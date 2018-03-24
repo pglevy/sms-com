@@ -25,13 +25,13 @@ body {
 	font-size: 16px;
 	color: #333;
 	background-color: #4C1161;
-	background-image: linear-gradient(bottom, #4C1161 80%, #000000 100%);
-	background-image: -o-linear-gradient(bottom, #4C1161 80%, #000000 100%);
-	background-image: -moz-linear-gradient(bottom, #4C1161 80%, #000000 100%);
-	background-image: -webkit-linear-gradient(bottom, #4C1161 80%, #000000 100%);
-	background-image: -ms-linear-gradient(bottom, #4C1161 80%, #000000 100%);
+	background: linear-gradient(bottom, #4C1161 80%, #000000 100%);
+	background: -o-linear-gradient(bottom, #4C1161 80%, #000000 100%);
+	background: -moz-linear-gradient(bottom, #4C1161 80%, #000000 100%);
+	background: -webkit-linear-gradient(bottom, #4C1161 80%, #000000 100%);
+	background: -ms-linear-gradient(bottom, #4C1161 80%, #000000 100%);
 
-	background-image: -webkit-gradient(
+	background: -webkit-gradient(
 		linear,
 		left bottom,
 		left top,
