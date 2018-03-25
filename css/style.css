@@ -194,6 +194,7 @@ li.active {
 
 .navbar .btn-navbar i {
 	color: #4C1161;
+	text-shadow: none;
 }
 
 /* ========= My rules ========== */
