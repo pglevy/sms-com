@@ -44,8 +44,8 @@ More Advanced:
 ## Who - 10 years old and up
 
  - Who wants to learn how to play any popular songs they love on the piano.
- - Who wants to learn to be a solo pianist siner accompanist, o ot.
-  Who wants to play and sing at the same time.
+ - Who wants to learn to be a solo pianist, singer accompanist, or both.
+ - Who wants to play and sing at the same time.
  - Who wants to learn to play by ear.
  - Have a goal in mind, great attitude, and big smile.
  - Not afraid to be creative & try new things.
@@ -76,8 +76,9 @@ I teach non traditional but practical piano to play popular music you love.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0Njk5NzkzLC0xNzY4NjI2MjEwLC0xMj
-IxNTEzOTU3LC0yMDE0ODU5MzU2LC0xOTM2MTE0MDE1LC03NTE2
-NTAyNDUsLTEyMTgyMjE4MjUsMTE4NDI1NDEwOSwtMTYzOTIzMz
-A3OCwtODgzMzM0MDE2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTA3NjIzNjY2MSw4NTQ2OTk3OTMsLTE3Nj
+g2MjYyMTAsLTEyMjE1MTM5NTcsLTIwMTQ4NTkzNTYsLTE5MzYx
+MTQwMTUsLTc1MTY1MDI0NSwtMTIxODIyMTgyNSwxMTg0MjU0MT
+A5LC0xNjM5MjMzMDc4LC04ODMzMzQwMTYsLTIwODg3NDY2MTJd
+fQ==
 -->
