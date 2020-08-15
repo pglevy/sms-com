@@ -44,12 +44,10 @@ More Advanced:
 ## Who - 10 years old and up
 
 Who (wants to learn to:...)
-
- - play the piano: either as a solo pianist, singer accompanist or both.
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTY1MDI0NSwtMTIxODIyMTgyNSwxMT
-g0MjU0MTA5LC0xNjM5MjMzMDc4LC04ODMzMzQwMTYsLTIwODg3
-NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTU2NzIzOTY3OSwtNzUxNjUwMjQ1LC0xMj
+E4MjIxODI1LDExODQyNTQxMDksLTE2MzkyMzMwNzgsLTg4MzMz
+NDAxNiwtMjA4ODc0NjYxMl19
 -->
