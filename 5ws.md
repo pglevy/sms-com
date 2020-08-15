@@ -11,8 +11,11 @@ So instead of ongoing, weekly lessons, where there's so much pressure for magic 
  - I'm only taking 10 students at one time to provide quality time and energy to focus on each individual.
  - You are not going to go through the same method as others, because I will give you an individualized curriculum designed to your specific project, from the level you are now, derived from different sources of books, my own notes/exercises/drills, summary of the big picture and foundation of what you need to accomplish your goal.
 
+### When 
+
+ - Each project will run for 3 months. When you're re
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDUxNjA4MSwtODgzMzM0MDE2LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEzMTgzOTk5MzcsLTg4MzMzNDAxNiwtMj
+A4ODc0NjYxMl19
 -->
