@@ -53,11 +53,12 @@ More Advanced:
  - Who wants to perform as a solo artist or play in a band
  - Who loves listening to popular music
  - Who wants to film score
- -  
+ - Who wants to record and produce their own music
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODg5MTYwOSwtNzUxNjUwMjQ1LC0xMj
+eyJoaXN0b3J5IjpbLTU2MDE4OTY3NiwtNzUxNjUwMjQ1LC0xMj
 E4MjIxODI1LDExODQyNTQxMDksLTE2MzkyMzMwNzgsLTg4MzMz
 NDAxNiwtMjA4ODc0NjYxMl19
 -->
