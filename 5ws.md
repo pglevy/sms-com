@@ -10,7 +10,7 @@ So instead of ongoing, weekly lessons, where there's so much pressure for magic 
  - I'm not interested in teaching an individual who is not driven by their own interest, because I know I will put my 100% time and energy to make things happen to those who are eager and excited to learn to achieving their goals. It must be a 2-way communication in order for this project to work. 
  - I'm only taking 10 students at one time to provide quality time and energy to focus on each individual.
  - You are not going to go through the same method as others, because I will give you an individualized curriculum designed to your specific project, from the level you are now, derived from different sources of books, my own notes/exercises/drills, summary of the big picture and foundation of what you need to accomplish your goal.
- - We will start conduct our project in an organized matter where everything (notes, video tutorials, assignments, other online sources like YouTube/articles) will be documented on Google Classroom, where we can go back anytime to  assess, print etc.
+ - We will start conducting our fresh project in an organized matter where everything (notes, video tutorials, assignments, other online sources like YouTube/articles) will be documented on Google Classroom, where we can go back anytime to  assess, print etc.
 
 ### When 
 
@@ -44,6 +44,6 @@ More Advanced:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzIxMjQ2NTIsLTE2MzkyMzMwNzgsLT
-g4MzMzNDAxNiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTM5MTc0MTA0MCwtMTYzOTIzMzA3OCwtOD
+gzMzM0MDE2LC0yMDg4NzQ2NjEyXX0=
 -->
