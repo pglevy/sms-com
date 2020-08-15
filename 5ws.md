@@ -38,14 +38,15 @@ Offline Communication - Google Classroom
  - Zelle/PayPal
 
 More Advanced:
- - Separate piano and voice mic
+ - Separate piano and voice microphones
  - 2 cameras for piano/sheet music and face
 
+## Who
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDg1MDA5MSwxMTg0MjU0MTA5LC0xNj
-M5MjMzMDc4LC04ODMzMzQwMTYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNTgxOTk1NTU5LDExODQyNTQxMDksLTE2Mz
+kyMzMwNzgsLTg4MzMzNDAxNiwtMjA4ODc0NjYxMl19
 -->
