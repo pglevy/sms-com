@@ -34,9 +34,14 @@ Offline Communication - Google Classroom
  - Internet - preferably strong connection
  - Zoom
  - Google Classroom
+ - A notebook and pen/pencil
  - Zelle/PayPal
 
+More Advanced:
+ - Separate piano and voice mic
+ - 2 c
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxOTQwOSwtODgzMzM0MDE2LC0yMDg4Nz
-Q2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEzOTgyOTgzNTQsLTg4MzMzNDAxNiwtMj
+A4ODc0NjYxMl19
 -->
