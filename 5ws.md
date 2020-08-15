@@ -5,14 +5,14 @@ So instead of ongoing, weekly lessons, where there's so much pressure for magic 
 
 ## How will this work?
 
- - We're not focusing on completing a book. We're completing a goal that has meaning to you.
+ - We're not focusing on completing a piano book. We're completing a goal that has meaning to you.
  - We're not doing a 30-minute lesson a week format, but rather a 3-month intensive package project for your goal, a weekly 45-minute online meeting and offline ongoing conversations, focused assignments and check-ins throughout the week. 
  - I'm not interested in teaching an individual who is not driven by their own interest, because I know I will put my 100% time and energy to make things happen to those who are eager and excited to learn to achieving their goals. It must be a 2-way communication in order for this project to work. 
  - I'm only taking 10 students at one time to provide quality time and energy to focus on each individual.
  - You are not going to go through the same method as others, because I will give you an individualized curriculum designed to your specific project, from the level you are now, derived from different sources of books, my own notes/exercises/drills, summary of the big picture and foundation of what you need to accomplish your goal.
  - We will start conducting our fresh project in an organized matter where everything (our notes, Q/A, my video tutorials, your video/recording assignments and performances, online sources like YouTube links/articles) will be digitally captured and documented on Google Classroom, where we can go back anytime to assess, discuss, print etc.
 
-### When 
+## When 
 
  - Each project will run for 3 months. 
  - A project can start anytime, there are no seasonal start/end dates.
@@ -21,12 +21,12 @@ So instead of ongoing, weekly lessons, where there's so much pressure for magic 
  - And we'll have some asynchronous communication as well
  - The meeting's times can occur regularly but can be adjusted as needed.
 
-#### Where
+## Where
 
 Online Zoom 
 Offline Communication - Google Classroom
 
-##### Technical Set Up
+## Technical Set Up
 
  Must Haves:
  - Piano/Keyboard
@@ -44,6 +44,6 @@ More Advanced:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA4MjY4NDIsLTE2MzkyMzMwNzgsLT
+eyJoaXN0b3J5IjpbLTEzMDcxMTMwNTMsLTE2MzkyMzMwNzgsLT
 g4MzMzNDAxNiwtMjA4ODc0NjYxMl19
 -->
