@@ -41,11 +41,12 @@ More Advanced:
  - Separate piano and voice microphones
  - 2 cameras for piano/sheet music and face
 
-## Who
+## Who w
 
- - Anybody 10 years and up wants to learn piano
+ - Anybody 10 years and up wants to learn to play the piano either as a solo pianist, singer accompanist or both.
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3NDgwMTU2LDExODQyNTQxMDksLTE2Mz
+eyJoaXN0b3J5IjpbMTExMTc0NTY1LDExODQyNTQxMDksLTE2Mz
 kyMzMwNzgsLTg4MzMzNDAxNiwtMjA4ODc0NjYxMl19
 -->
