@@ -53,14 +53,15 @@ Maybe useful information for you to know about me:
 
  - I live in Woodbridge, VA, about 45 minutes south of DC.
  - Founder/creative director of Sophia Music Studio .
- - Taught about 200+ students since 2011 where I continuously take them to experience performing in all kinds of different venues like cafes, clubs, restaurants and outdoor shows through county's events at parks, zoo, and amphitheater, recording studios, finishing their original songs, winning Vienna Idol competition, fundraising event to help Title 1 school in Manassas for all their school supplies. 
+ - Taught about 200+ students since 2011 where I continuously take them to experience performing in all kinds of different venues such as cafes, clubs, restaurants and outdoor shows through county's events at parks, zoo, and amphitheater. Coached students at the recording studios for album production, helped finish their original songs and performance preparation to winning Vienna Idol competition, fundraising event to help Title 1 school in Manassas for all their school supplies. 
+ - Conducted group workshops for vocal performance and rock band
  - Berklee College of Music graduate, studied piano, voice, songwriting and music synthesis.
  - I'm a published songwriter for cable and major network TV in the US.
  - I've written songs for major label artists in Asia.
  - Released my own album in Indonesia, toured, and was on MTV Asia :-)
  - Starred in a kids show, KCTV WOW GANG in Singapore, where I also wrote and produced songs used in the show.
  - I'm in a band with my family of four and a reggae band with our friends.
- - I love yoga, meditation, cooking, planting, and overall health and wellness enthusiast.
+ - I love yoga, meditation, cooking, dancing, planting, and overall health and wellness enthusiast.
  - I believe in continuous improvement - kaizen
  - I smile a lot :-)
 
@@ -93,6 +94,8 @@ I teach non traditional but practical piano to play popular music you love.
 
 From learning how to play the piano using the chord based system and hone the basic foundation of making music on the piano, I can also teach you how to branch out to songwriting, arranging or producing music to picture for those who are interested to explore in these arenas.
 
+## 
+
 
 
 
@@ -106,9 +109,9 @@ From learning how to play the piano using the chord based system and hone the ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODMxNzMxNyw4NTQ2OTk3OTMsLTE3Nj
-g2MjYyMTAsLTEyMjE1MTM5NTcsLTIwMTQ4NTkzNTYsLTE5MzYx
-MTQwMTUsLTc1MTY1MDI0NSwtMTIxODIyMTgyNSwxMTg0MjU0MT
-A5LC0xNjM5MjMzMDc4LC04ODMzMzQwMTYsLTIwODg3NDY2MTJd
-fQ==
+eyJoaXN0b3J5IjpbLTE3MzUyMDc3NjgsODU0Njk5NzkzLC0xNz
+Y4NjI2MjEwLC0xMjIxNTEzOTU3LC0yMDE0ODU5MzU2LC0xOTM2
+MTE0MDE1LC03NTE2NTAyNDUsLTEyMTgyMjE4MjUsMTE4NDI1ND
+EwOSwtMTYzOTIzMzA3OCwtODgzMzM0MDE2LC0yMDg4NzQ2NjEy
+XX0=
 -->
