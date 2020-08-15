@@ -20,7 +20,10 @@ So instead of ongoing, weekly lessons, where there's so much pressure for magic 
  - And we'll have some asynchronous communication as well
  - The meeting's times can occur regularly but can be adjusted as needed.
 
+#### Where
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODM0MjQwMiwtODgzMzM0MDE2LC0yMD
+eyJoaXN0b3J5IjpbLTU1OTk3Mjg2MywtODgzMzM0MDE2LC0yMD
 g4NzQ2NjEyXX0=
 -->
