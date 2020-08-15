@@ -57,11 +57,12 @@ More Advanced:
 
 ## What
 
-These are not your grandmother's piano lessons. This is a creative musical project that I will coach you on to meet your goal.
+These are not your grandmother's piano lessons. This is a creative musical project that I will design and coach you on to meet your goal.
 
-I teach popular music on the piano through playing by ear, core foundation of rhythm, melody & harmony, using chord-based system, 
+I teach popular music on the piano through playing by ear, strong core foundation of rhythm, melody & harmony using the chord-based system.
 
-I design creative project planning and coaching.
+I will also teach healthy vocal for those who are interested in  
+
 
 
 
@@ -69,7 +70,7 @@ I design creative project planning and coaching.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA3NDAxMDEsLTE5MzYxMTQwMTUsLT
-c1MTY1MDI0NSwtMTIxODIyMTgyNSwxMTg0MjU0MTA5LC0xNjM5
-MjMzMDc4LC04ODMzMzQwMTYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNzUxMjUwNTA0LC0xOTM2MTE0MDE1LC03NT
+E2NTAyNDUsLTEyMTgyMjE4MjUsMTE4NDI1NDEwOSwtMTYzOTIz
+MzA3OCwtODgzMzM0MDE2LC0yMDg4NzQ2NjEyXX0=
 -->
