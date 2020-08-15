@@ -144,11 +144,12 @@ PayPal
  - Playing holiday songs at your uncle's house for family gatherings
  - Arranging songs into your own stylistic creative approach
  - Writing songs to your animation project
- - Producing tracks on Garage Band
+ - Producing tracks on Garage Band for 3 song demo
+ - 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjkzNDk1NCw4NTQ2OTk3OTMsLTE3Nj
+eyJoaXN0b3J5IjpbLTY1MjQ4NjY2Nyw4NTQ2OTk3OTMsLTE3Nj
 g2MjYyMTAsLTEyMjE1MTM5NTcsLTIwMTQ4NTkzNTYsLTE5MzYx
 MTQwMTUsLTc1MTY1MDI0NSwtMTIxODIyMTgyNSwxMTg0MjU0MT
 A5LC0xNjM5MjMzMDc4LC04ODMzMzQwMTYsLTIwODg3NDY2MTJd
