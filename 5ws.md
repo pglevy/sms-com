@@ -59,13 +59,15 @@ More Advanced:
 
 These are not your grandmother's piano lessons. This is a musical project that I will coach you on to meet your goal.
 
-I teach popular music on the piano through playing by earianoand voice.  using chord-based system, by doing creative project planning and coaching.
+I teach popular music on the piano through playing by ear, core foundation of rhyth, using chord-based system, by doing creative project planning and coaching.
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzc5NDA3NCwtMTkzNjExNDAxNSwtNz
-UxNjUwMjQ1LC0xMjE4MjIxODI1LDExODQyNTQxMDksLTE2Mzky
-MzMwNzgsLTg4MzMzNDAxNiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMzE5NzQ5MzMwLC0xOTM2MTE0MDE1LC03NT
+E2NTAyNDUsLTEyMTgyMjE4MjUsMTE4NDI1NDEwOSwtMTYzOTIz
+MzA3OCwtODgzMzM0MDE2LC0yMDg4NzQ2NjEyXX0=
 -->
