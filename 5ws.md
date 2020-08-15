@@ -26,11 +26,17 @@ So instead of ongoing, weekly lessons, where there's so much pressure for magic 
 Online Zoom 
 Offline Communication - Google Classroom
 
-##### Technical SetUp
+##### Technical Set Up
 
-
+ Must Haves:
+ - Piano/Keyboard
+ - Computer/Phone
+ - Internet - preferably strong connection
+ - Zoom
+ - Google Classroom
+ - Zelle/PayPal
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyMTM3Nzg2LC04ODMzMzQwMTYsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNDAxOTQwOSwtODgzMzM0MDE2LC0yMDg4Nz
+Q2NjEyXX0=
 -->
