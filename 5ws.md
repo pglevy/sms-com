@@ -16,9 +16,11 @@ So instead of ongoing, weekly lessons, where there's so much pressure for magic 
  - Each project will run for 3 months. 
  - A project can start anytime, there are no seasonal start/end dates.
  - We'll meet at least once a week on Zoom for 45 minutes.
- - 
+ - We'll also meet for a 15-minute check-in
+ - And we'll have some asynchronous communication as well
+ - The meeting's times can occur regularly but can be adjusted as needed.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzMzE5MzgyLC04ODMzMzQwMTYsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTc2ODM0MjQwMiwtODgzMzM0MDE2LC0yMD
+g4NzQ2NjEyXX0=
 -->
