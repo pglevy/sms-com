@@ -111,6 +111,19 @@ Note: You will save a total of $200 when you paid in full in the beginning of th
 Zelle
 PayPal
 
+## So What Do You Get in the 3-month package project:
+
+ - One 45-minute online Zoom session weekly for 12 weeks.
+ - One 15-minute check-ins
+ - Personalized at-home practice plan
+ - Regular/continuous offline communications through Google Classroom for assignments, videos, Q&A.
+ - Hope you achieve your goal at the end of the session :-)
+
+## What happens after 3 months?
+
+ - We will assess where you are
+ - May continue doing another 3-month project for a different focus.
+
 ## FAQ
 
 ## Policy
@@ -118,29 +131,26 @@ PayPal
 
 ## Application Form
 
+## Examples of Goals
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ - Learning how to play solo piano of your favorite pop songs
+ - Writing your own original songs
+ - Playing and singing all Taylor Swift's songs of her new album
+ - Learning how to accompany yourself singing
+ - Playing songs by ear
+ - Understanding how chord works in all of your favorite tunes.
+ - Preparing for an audition/performances
+ - Playing Disney's songs you love, or the whole Billie Eilish's album
+ - Playing holiday songs at your uncle's house for family gatherings
+ - Arranging songs into your own stylistic creative approach
+ - Writing songs to your animation project
+ - Producing tracks on Garage Band
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwNDA4NjksODU0Njk5NzkzLC0xNzY4Nj
-I2MjEwLC0xMjIxNTEzOTU3LC0yMDE0ODU5MzU2LC0xOTM2MTE0
-MDE1LC03NTE2NTAyNDUsLTEyMTgyMjE4MjUsMTE4NDI1NDEwOS
-wtMTYzOTIzMzA3OCwtODgzMzM0MDE2LC0yMDg4NzQ2NjEyXX0=
-
+eyJoaXN0b3J5IjpbLTUyNjkzNDk1NCw4NTQ2OTk3OTMsLTE3Nj
+g2MjYyMTAsLTEyMjE1MTM5NTcsLTIwMTQ4NTkzNTYsLTE5MzYx
+MTQwMTUsLTc1MTY1MDI0NSwtMTIxODIyMTgyNSwxMTg0MjU0MT
+A5LC0xNjM5MjMzMDc4LC04ODMzMzQwMTYsLTIwODg3NDY2MTJd
+fQ==
 -->
