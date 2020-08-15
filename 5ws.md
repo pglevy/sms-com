@@ -61,7 +61,7 @@ Maybe useful information for you to know about me:
  - Released my own album in Indonesia, toured, and was on MTV Asia :-)
  - Starred in a kids show, KCTV WOW GANG in Singapore, where I also wrote and produced songs used in the show.
  - I'm in a band with my family of four and a reggae band with our friends.
- - I love yoga, meditation, cooking, dancing, planting, and overall health and wellness enthusiast.
+ - I love doing yoga, meditation, cooking, dancing, planting, and overall health and wellness enthusiast.
  - I believe in continuous improvement - kaizen
  - I smile a lot :-)
 
@@ -88,18 +88,20 @@ I do not teach classical music.
 
 I teach popular music on the piano through playing by ear, strong core foundation of rhythm, melody & harmony using the chord-based system.
 
+I will design an individual/personalized curriculum tailored to your specific goal.
+
 I will also incorporate to teach voice for those who are interested in singing while playing the piano, to achieve the wholesome experience of both worlds.
 
 I teach non traditional but practical piano to play popular music you love.
 
 From learning how to play the piano using the chord based system and hone the basic foundation of making music on the piano, I can also teach you how to branch out to songwriting, arranging or producing music to picture for those who are interested to explore in these arenas.
 
-## Price
+## Tuition
 
 Paid in full:
 3-month project (12 weeks): $1,000
 
-Paid in monthly installment in beginning of the month:
+Paid in monthly installment in the beginning of the month:
 1 month (4 weeks): $400
 
 Note: You will save a total of $200 when you paid in full in the beginning of the project.
@@ -108,6 +110,16 @@ Note: You will save a total of $200 when you paid in full in the beginning of th
 
 Zelle
 PayPal
+
+## FAQ
+
+## Policy
+
+
+## Application Form
+
+
+
 
 
 
@@ -126,9 +138,9 @@ PayPal
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDMzODU3ODQsODU0Njk5NzkzLC0xNz
-Y4NjI2MjEwLC0xMjIxNTEzOTU3LC0yMDE0ODU5MzU2LC0xOTM2
-MTE0MDE1LC03NTE2NTAyNDUsLTEyMTgyMjE4MjUsMTE4NDI1ND
-EwOSwtMTYzOTIzMzA3OCwtODgzMzM0MDE2LC0yMDg4NzQ2NjEy
-XX0=
+eyJoaXN0b3J5IjpbNDIwNDA4NjksODU0Njk5NzkzLC0xNzY4Nj
+I2MjEwLC0xMjIxNTEzOTU3LC0yMDE0ODU5MzU2LC0xOTM2MTE0
+MDE1LC03NTE2NTAyNDUsLTEyMTgyMjE4MjUsMTE4NDI1NDEwOS
+wtMTYzOTIzMzA3OCwtODgzMzM0MDE2LC0yMDg4NzQ2NjEyXX0=
+
 -->
