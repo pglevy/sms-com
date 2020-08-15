@@ -12,7 +12,7 @@ So instead of ongoing, weekly lessons, where there's so much pressure for magic 
  - You are not going to go through the same method as others, because I will give you an individualized curriculum designed to your specific project, from the level you are now, derived from different sources of books, my own notes/exercises/drills, summary of the big picture and foundation of what you need to accomplish your goal.
  - We will start conducting our fresh project in an organized matter where everything (our notes, Q/A, my video tutorials, your video/recording assignments and performances, online sources like YouTube links/articles) will be digitally captured and documented on Google Classroom, where we can go back anytime to assess, discuss, print etc.
 
-### When 
+## When 
 
  - Each project will run for 3 months. 
  - A project can start anytime, there are no seasonal start/end dates.
@@ -21,12 +21,12 @@ So instead of ongoing, weekly lessons, where there's so much pressure for magic 
  - And we'll have some asynchronous communication as well
  - The meeting's times can occur regularly but can be adjusted as needed.
 
-#### Where
+## Where
 
 Online Zoom 
 Offline Communication - Google Classroom
 
-##### Technical Set Up
+## Technical Set Up
 
  Must Haves:
  - Piano/Keyboard
@@ -43,7 +43,9 @@ More Advanced:
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE5MzQyMjEsMTE4NDI1NDEwOSwtMT
-YzOTIzMzA3OCwtODgzMzM0MDE2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTQ5NDg1MDA5MSwxMTg0MjU0MTA5LC0xNj
+M5MjMzMDc4LC04ODMzMzQwMTYsLTIwODg3NDY2MTJdfQ==
 -->
