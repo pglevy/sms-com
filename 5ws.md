@@ -55,10 +55,17 @@ More Advanced:
  - Who wants to film score
  - Who wants to record and produce their own music
 
+## What
+
+These are not your grandmother's piano lessons. This is a musical project that I will coach you on to meet your goal.
+
+I teach piano and voice. 
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDE4OTY3NiwtNzUxNjUwMjQ1LC0xMj
-E4MjIxODI1LDExODQyNTQxMDksLTE2MzkyMzMwNzgsLTg4MzMz
-NDAxNiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNzU0NTMzMDYsLTc1MTY1MDI0NSwtMTIxOD
+IyMTgyNSwxMTg0MjU0MTA5LC0xNjM5MjMzMDc4LC04ODMzMzQw
+MTYsLTIwODg3NDY2MTJdfQ==
 -->
