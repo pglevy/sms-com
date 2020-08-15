@@ -59,13 +59,13 @@ More Advanced:
 
 These are not your grandmother's piano lessons. This is a musical project that I will coach you on to meet your goal.
 
-I teach piano and voice. 
+I teach popular music on the piano, through playing by ear 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0NTMzMDYsLTc1MTY1MDI0NSwtMTIxOD
-IyMTgyNSwxMTg0MjU0MTA5LC0xNjM5MjMzMDc4LC04ODMzMzQw
-MTYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTU5Njk2Njg4NywtNzUxNjUwMjQ1LC0xMj
+E4MjIxODI1LDExODQyNTQxMDksLTE2MzkyMzMwNzgsLTg4MzMz
+NDAxNiwtMjA4ODc0NjYxMl19
 -->
