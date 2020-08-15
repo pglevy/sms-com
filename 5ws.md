@@ -6,10 +6,10 @@ So instead of ongoing, weekly lessons, where there's so much pressure for magic 
 ## How will this work?
 
  - We're not focusing on completing a book. We're completing a goal that has meaning to you.
- - We
+ - We're not doing a 30-minute lesson a week format, but rather a 3-month intensive package project with a 45-minute online ongoing conversations, focused assignments and check-ins throughout the week
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5MTc1MjE2LC04ODMzMzQwMTYsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTUwOTIyMTk3NSwtODgzMzM0MDE2LC0yMD
+g4NzQ2NjEyXX0=
 -->
