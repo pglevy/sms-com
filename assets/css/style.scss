@@ -1,0 +1,40 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+//colors
+// purple: #6700AD
+// yellow: #FFB616
+// dark-purple?: #4C1161;
+
+body {
+  background-color: #FFB616;
+  font-size: 1.25rem;
+}
+
+h1, h2, h3 {
+  font-family: 'Bitter', serif;
+}
+
+.bg-black {
+  background-color: #000000 !important;
+}
+
+.img-logo {
+  display: block;
+  max-width:445px;
+  //max-height:32px;
+  width: 100%;
+  //height: auto;
+}
+
+.sms-primary {
+  background-color: #6700AD;
+  color: white;
+}
+
+.sms-primary:hover, .sms-primary:active {
+  background-color: #4C1161;
+  color: white;
+}
