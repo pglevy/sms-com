@@ -61,7 +61,9 @@ These are not your grandmother's piano lessons. This is a creative musical proje
 
 I teach popular music on the piano through playing by ear, strong core foundation of rhythm, melody & harmony using the chord-based system.
 
-I will also teach healthy vocal for those who are interested in  
+I will also teach voice for those who are interested in singing while playing the piano, to achieve the wholesome experience of both worlds.
+
+
 
 
 
@@ -70,7 +72,7 @@ I will also teach healthy vocal for those who are interested in
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxMjUwNTA0LC0xOTM2MTE0MDE1LC03NT
-E2NTAyNDUsLTEyMTgyMjE4MjUsMTE4NDI1NDEwOSwtMTYzOTIz
-MzA3OCwtODgzMzM0MDE2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTgyMDA2MjA5OSwtMTkzNjExNDAxNSwtNz
+UxNjUwMjQ1LC0xMjE4MjIxODI1LDExODQyNTQxMDksLTE2Mzky
+MzMwNzgsLTg4MzMzNDAxNiwtMjA4ODc0NjYxMl19
 -->
