@@ -145,12 +145,15 @@ PayPal
  - Arranging songs into your own stylistic creative approach
  - Writing songs to your animation project
  - Producing tracks on Garage Band for 3 song demo
+ - Playing favorite 80's songs
+ - Playing like Sir Elton John and Billy Joel
+ - Understanding music by the Beatles
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM0MzEyMzIsODU0Njk5NzkzLC0xNz
-Y4NjI2MjEwLC0xMjIxNTEzOTU3LC0yMDE0ODU5MzU2LC0xOTM2
-MTE0MDE1LC03NTE2NTAyNDUsLTEyMTgyMjE4MjUsMTE4NDI1ND
-EwOSwtMTYzOTIzMzA3OCwtODgzMzM0MDE2LC0yMDg4NzQ2NjEy
-XX0=
+eyJoaXN0b3J5IjpbODU5NzI3NDM3LDg1NDY5OTc5MywtMTc2OD
+YyNjIxMCwtMTIyMTUxMzk1NywtMjAxNDg1OTM1NiwtMTkzNjEx
+NDAxNSwtNzUxNjUwMjQ1LC0xMjE4MjIxODI1LDExODQyNTQxMD
+ksLTE2MzkyMzMwNzgsLTg4MzMzNDAxNiwtMjA4ODc0NjYxMl19
+
 -->
