@@ -39,9 +39,11 @@ Offline Communication - Google Classroom
 
 More Advanced:
  - Separate piano and voice mic
- - 2 c
+ - 2 cameras for piano/sheet music and face
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgyOTgzNTQsLTg4MzMzNDAxNiwtMj
+eyJoaXN0b3J5IjpbLTE2MzkyMzMwNzgsLTg4MzMzNDAxNiwtMj
 A4ODc0NjYxMl19
 -->
