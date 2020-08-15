@@ -59,11 +59,11 @@ More Advanced:
 
 These are not your grandmother's piano lessons. This is a creative musical project that I will design and coach you on to meet your goal.
 
-I teach popular music on the piano through playing by ear, strong core foundation of rhythm, melody & harmonyinoad i  using the chord-based system.
+I teach popular music on the piano through playing by ear, strong core foundation of rhythm, melody & harmony, using the chord-based system.
 
 I will also incorporate to teach voice for those who are interested in singing while, by doing creative project playnning the piano, to achieve the wholesome experience of both worldsand coaching..
 
-I teach non traditional but practical piano to play popular music you love
+I teach non traditional but practical piano to play popular music you love.
 
 
 
@@ -74,8 +74,8 @@ I teach non traditional but practical piano to play popular music you love
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTgzNTA4NCwtMjAxNDg1OTM1NiwtMT
-kzNjExNDAxNSwtNzUxNjUwMjQ1LC0xMjE4MjIxODI1LDExODQy
-NTQxMDksLTE2MzkyMzMwNzgsLTg4MzMzNDAxNiwtMjA4ODc0Nj
-YxMl19
+eyJoaXN0b3J5IjpbMzEwMjQ4MjM0LC0yMDE0ODU5MzU2LC0xOT
+M2MTE0MDE1LC03NTE2NTAyNDUsLTEyMTgyMjE4MjUsMTE4NDI1
+NDEwOSwtMTYzOTIzMzA3OCwtODgzMzM0MDE2LC0yMDg4NzQ2Nj
+EyXX0=
 -->
