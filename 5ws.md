@@ -44,12 +44,12 @@ More Advanced:
 ## Who - 10 years old and up
 
  - Who wants to learn how to play any popular songs they love on the piano.
- - Who wants to learn to be a solo pianist, singer accompanist, or both.
- - Who wants to play and sing at the same time.
+ - Who wants to learn to be a solo pianist siner accompanist, o ot.
+  Who wants to play and sing at the same time.
  - Who wants to learn to play by ear.
  - Have a goal in mind, great attitude, and big smile.
  - Not afraid to be creative & try new things.
- - Who wants to write/compose/arrange their own songs.
+ - Who wants to write/compose/arrange their own so.
  - Who wants to perform as a solo artist or play in a band
  - Who loves listening to popular music
  - Who wants to film score
@@ -59,13 +59,13 @@ More Advanced:
 
 These are not your grandmother's piano lessons. This is a musical project that I will coach you on to meet your goal.
 
-I teach popular music on the piano, through playing by ear 
+I teach popular music on the piano through playing by eariano and voice. 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Njk2Njg4NywtNzUxNjUwMjQ1LC0xMj
-E4MjIxODI1LDExODQyNTQxMDksLTE2MzkyMzMwNzgsLTg4MzMz
-NDAxNiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE5MzYxMTQwMTUsMTU5Njk2Njg4NywtNz
+UxNjUwMjQ1LC0xMjE4MjIxODI1LDExODQyNTQxMDksLTE2Mzky
+MzMwNzgsLTg4MzMzNDAxNiwtMjA4ODc0NjYxMl19
 -->
