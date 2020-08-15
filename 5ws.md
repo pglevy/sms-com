@@ -43,15 +43,16 @@ More Advanced:
 
 ## Who - 10 years old and up
 
- - Who wants to learn how to play popular songs they love.
- - 
+ - Who wants to learn how to play popular songs they love on the piano.
+ - Who wants to learn to be a solo pianist, singer accompanist, or both.
+ - Who wants to le
  - Have a goal in mind, great attitude, and big smile.
  - Not afraid to be creative & try new things.
  - Who wants to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODEwMzgxOTksLTc1MTY1MDI0NSwtMT
-IxODIyMTgyNSwxMTg0MjU0MTA5LC0xNjM5MjMzMDc4LC04ODMz
-MzQwMTYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMzYwMzk4Nzk4LC03NTE2NTAyNDUsLTEyMT
+gyMjE4MjUsMTE4NDI1NDEwOSwtMTYzOTIzMzA3OCwtODgzMzM0
+MDE2LC0yMDg4NzQ2NjEyXX0=
 -->
