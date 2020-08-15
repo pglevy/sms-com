@@ -147,13 +147,13 @@ PayPal
  - Producing tracks on Garage Band for 3 song demo
  - Playing favorite 80's songs
  - Playing like Sir Elton John and Billy Joel
- - Understanding music by the Beatles
+ - Understanding music by the Beatles by dissecting the chords used and style
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5NzI3NDM3LDg1NDY5OTc5MywtMTc2OD
-YyNjIxMCwtMTIyMTUxMzk1NywtMjAxNDg1OTM1NiwtMTkzNjEx
-NDAxNSwtNzUxNjUwMjQ1LC0xMjE4MjIxODI1LDExODQyNTQxMD
-ksLTE2MzkyMzMwNzgsLTg4MzMzNDAxNiwtMjA4ODc0NjYxMl19
-
+eyJoaXN0b3J5IjpbMTY4MDM5Njc3NCw4NTQ2OTk3OTMsLTE3Nj
+g2MjYyMTAsLTEyMjE1MTM5NTcsLTIwMTQ4NTkzNTYsLTE5MzYx
+MTQwMTUsLTc1MTY1MDI0NSwtMTIxODIyMTgyNSwxMTg0MjU0MT
+A5LC0xNjM5MjMzMDc4LC04ODMzMzQwMTYsLTIwODg3NDY2MTJd
+fQ==
 -->
