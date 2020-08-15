@@ -43,11 +43,15 @@ More Advanced:
 
 ## Who - 10 years old and up
 
-Who (wants to learn to:...)
+ - Who wants to learn how to play popular songs they love.
  - 
+ - Have a goal in mind, great attitude, and big smile.
+ - Not afraid to be creative & try new things.
+ - Who wants to 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzIzOTY3OSwtNzUxNjUwMjQ1LC0xMj
-E4MjIxODI1LDExODQyNTQxMDksLTE2MzkyMzMwNzgsLTg4MzMz
-NDAxNiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE1ODEwMzgxOTksLTc1MTY1MDI0NSwtMT
+IxODIyMTgyNSwxMTg0MjU0MTA5LC0xNjM5MjMzMDc4LC04ODMz
+MzQwMTYsLTIwODg3NDY2MTJdfQ==
 -->
