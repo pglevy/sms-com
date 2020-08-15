@@ -45,15 +45,17 @@ More Advanced:
 
  - Who wants to learn how to play popular songs they love on the piano.
  - Who wants to learn to be a solo pianist, singer accompanist, or both.
+ - Who wants to play and sing.
  - Who wants to learn to play by ear.
  - Have a goal in mind, great attitude, and big smile.
  - Not afraid to be creative & try new things.
  - Who wants to write/compose/arrange their own songs.
- - Who wants to perform, start a band
+ - Who wants to perform as solo artist or play in a band
+ - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDM1NjE5OCwtNzUxNjUwMjQ1LC0xMj
+eyJoaXN0b3J5IjpbMTQ4MjAwMzIxMCwtNzUxNjUwMjQ1LC0xMj
 E4MjIxODI1LDExODQyNTQxMDksLTE2MzkyMzMwNzgsLTg4MzMz
 NDAxNiwtMjA4ODc0NjYxMl19
 -->
