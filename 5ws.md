@@ -145,13 +145,12 @@ PayPal
  - Arranging songs into your own stylistic creative approach
  - Writing songs to your animation project
  - Producing tracks on Garage Band for 3 song demo
- - 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjQ4NjY2Nyw4NTQ2OTk3OTMsLTE3Nj
-g2MjYyMTAsLTEyMjE1MTM5NTcsLTIwMTQ4NTkzNTYsLTE5MzYx
-MTQwMTUsLTc1MTY1MDI0NSwtMTIxODIyMTgyNSwxMTg0MjU0MT
-A5LC0xNjM5MjMzMDc4LC04ODMzMzQwMTYsLTIwODg3NDY2MTJd
-fQ==
+eyJoaXN0b3J5IjpbLTEzMTM0MzEyMzIsODU0Njk5NzkzLC0xNz
+Y4NjI2MjEwLC0xMjIxNTEzOTU3LC0yMDE0ODU5MzU2LC0xOTM2
+MTE0MDE1LC03NTE2NTAyNDUsLTEyMTgyMjE4MjUsMTE4NDI1ND
+EwOSwtMTYzOTIzMzA3OCwtODgzMzM0MDE2LC0yMDg4NzQ2NjEy
+XX0=
 -->
