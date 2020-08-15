@@ -43,7 +43,7 @@ More Advanced:
 
 ## Who - 10 years old and up
 
- - Who wants to learn how to play popular songs they love on the piano.
+ - Who wants to learn how to play any popular songs they love on the piano.
  - Who wants to learn to be a solo pianist, singer accompanist, or both.
  - Who wants to play and sing at the same time.
  - Who wants to learn to play by ear.
@@ -52,11 +52,12 @@ More Advanced:
  - Who wants to write/compose/arrange their own songs.
  - Who wants to perform as a solo artist or play in a band
  - Who loves listening to popular music
+ - Who wants to film score
  -  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTkzMzIyNCwtNzUxNjUwMjQ1LC0xMj
+eyJoaXN0b3J5IjpbMTMxODg5MTYwOSwtNzUxNjUwMjQ1LC0xMj
 E4MjIxODI1LDExODQyNTQxMDksLTE2MzkyMzMwNzgsLTg4MzMz
 NDAxNiwtMjA4ODc0NjYxMl19
 -->
