@@ -10,7 +10,7 @@ Hello! My name is Sophia Levy. My students call me Ms. Sophia.
 
 I graduated from Berklee College of Music in Boston where I studied piano, voice, songwriting, and music synthesis.
 
-I’ve written and recorded lots of songs for cable and network television in the U.S., and written songs for major label artists in Asia. I also released my own album in Indonesia and starred in a kids show in Singapore.
+I’ve written and recorded lots of songs for cable and network television in the U.S., and written songs for major label artists in Asia. I also released my own album in Indonesia and starThis is the base Jekyll theme. You can find out mored in a kids show in Singapore.
 
 I love working with kids to help them find their voice and have fun making cool music.
 
@@ -37,4 +37,18 @@ Maybe useful information for you to know about me:
  - I'm in a band with my family of four and a reggae band with our friends.
  - I love doing yoga, meditation, cooking, dancing, planting, and overall health and wellness enthusiast.
  - I believe in continuous improvement - kaizen
- - I smile a lot :-)
+ - I smile a lot :-)fo about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NjE2MTA2MTVdfQ==
+-->
