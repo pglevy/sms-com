@@ -6,15 +6,15 @@ So instead of ongoing, weekly lessons, where there's so much pressure for magic 
 ## How will this work?
 
  - We're not focusing on completing a piano method book for a certificate & recital. We're completing a goal that has meaning to you.
- - We're not doing a 30-minute lesson a week format, but rather a 3-month intensive package project for your goal, a weekly 45-minute online meeting and offline ongoing conversations, focused assignments and check-ins throughout the week. 
- - I'm not interested in teaching an individual who is not driven by their own interest, because I know I will put my 100% time and energy to make things happen to those who are eager and excited to learn to achieving their goals. It must be a 2-way communication in order for this project to work. 
+ - We're not doing a 30-minute lesson a week format, but rather a 3-month intensive package project for your goal, a weekly 45-minute online meeting and offline ongoing conversations, focused assignments and check-ins throughout the week.
+ - I'm not interested in teaching an individual who is not driven by their own interest, because I know I will put my 100% time and energy to make things happen to those who are eager and excited to learn to achieving their goals. It must be a 2-way communication in order for this project to work.
  - I'm only taking 10 students at one time to provide quality time and energy to focus on each individual.
  - You are not going to go through the same method as others, because I will give you an individualized curriculum designed to your specific project, from the level you are now, derived from different sources of books, my own notes/exercises/drills, summary of the big picture and foundation of what you need to accomplish your goal.
  - We will start conducting our fresh project in an organized matter where everything (our notes, Q/A, my video tutorials, your video/recording assignments and performances, online sources like YouTube links/articles) will be digitally captured and documented on Google Classroom, where we can go back anytime to assess, discuss, print etc.
 
-## When 
+## When
 
- - Each project will run for 3 months. 
+ - Each project will run for 3 months.
  - A project can start anytime, there are no seasonal start/end dates.
  - We'll meet at least once a week on Zoom for 45 minutes.
  - We'll also meet for a 15-minute check-in
@@ -23,7 +23,7 @@ So instead of ongoing, weekly lessons, where there's so much pressure for magic 
 
 ## Where
 
-Online Zoom 
+Online Zoom
 Offline Communication - Google Classroom
 
 ## Technical Set Up
@@ -41,29 +41,6 @@ More Advanced:
  - Separate piano and voice microphones
  - 2 cameras for piano/sheet music and face
 
-## Who I am
-I am a creative piano/voice project coach.
-I love helping musicians to play popular songs by ear, using chord based method, which can lead to writing their own original songs, and be an independent musician who can play any popular songs they hear.
-I believe doing projects will bring your music goal to life. 
-I also believe learning to play the piano doesn't need to be stressful. It's supposed to be fun. 
-I can help make your musical goal happen for you.
-No competition, no judgement, pure joy of learning and continuous improvement, and oh, always celebrate the little wins!
-
-Maybe useful information for you to know about me:
-
- - I live in Woodbridge, VA, about 45 minutes south of DC.
- - Founder/creative director of Sophia Music Studio .
- - Taught about 200+ students since 2011 where I continuously take them to experience performing in all kinds of different venues such as cafes, clubs, restaurants and outdoor shows through county's events at parks, zoo, and amphitheater. Coached students at the recording studios for album production, helped finish their original songs and performance preparation to winning Vienna Idol competition, fundraising event to help Title 1 school in Manassas for all their school supplies. 
- - Conducted group workshops for vocal performance and rock band
- - Berklee College of Music graduate, studied piano, voice, songwriting and music synthesis.
- - I'm a published songwriter for cable and major network TV in the US.
- - I've written songs for major label artists in Asia.
- - Released my own album in Indonesia, toured, and was on MTV Asia :-)
- - Starred in a kids show, KCTV WOW GANG in Singapore, where I also wrote and produced songs used in the show.
- - I'm in a band with my family of four and a reggae band with our friends.
- - I love doing yoga, meditation, cooking, dancing, planting, and overall health and wellness enthusiast.
- - I believe in continuous improvement - kaizen
- - I smile a lot :-)
 
 ## Who I teach - 10 years old and up
 
@@ -148,7 +125,7 @@ PayPal
  - Playing favorite 80's songs
  - Playing like Sir Elton John and Billy Joel
  - Understanding music by the Beatles by dissecting the chords used and style
- 
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY4MDM5Njc3NCw4NTQ2OTk3OTMsLTE3Nj
