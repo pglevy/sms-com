@@ -2,8 +2,7 @@
 layout: home
 title: "Introducing: Passion Projects"
 permalink: /
-intro: "After taking a break, I've decided to try something new and different for Sophia Music Studio. Reflecting on my years of teaching, I've found the students who grow the most and have the most fun are the ones who have a clear idea of what they're working toward. So instead of ongoing, weekly lessons, where# You don't need to edit this file, it's empty on purpose.
-# Edit therme's so much pressure for magic to happen in those 30-minute classes, I'm starting a new format: 3-month projects where we work together to achieve a specific goal for you.
+intro: "After taking a break, I've decided to try something new and different for Sophia Music Studio. Reflecting on my years of teaching, I've found the students who grow the most and have the most fun are the ones who have a clear idea of what they're working toward. So instead of ongoing, weekly lessons, where there's so much pressure for magic to happen in those 30-minute classes, I'm starting a new format: 3-month projects where we work together to achieve a specific goal for you.
 "
 call-to-action: Tell me what you’re passionate about
 image: smiling.jpg
@@ -51,11 +50,7 @@ A good-fit student is someone who fits the following description:
 
 - Loves to figure out how to play their favorite songs on piano.
 - Learns by listening to music frequently and intently.
-- Lohome layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
-title: "Introducing: Passion Projects"
-intro: "After taking a break, I've decided to try something new and different for Sophia Music Studio. Reflecting on my years of teaching, I've found the students who grow the most and haves to show off when they've learned a song.
+- Loves to show off when they've learned a song.
 - Isn't afraid to try new things and be creative.
 - Imagines themselves doing fun things with music.
 
@@ -120,20 +115,11 @@ You can also [send me an email](mailto:sophia@sophiamusicstudio.com) with any ot
 
 
 
-he most fun are the ones who have a clear idea of what they're working toward. Tell me what you're passionate about…
-"
-call-to-action: Answer survey to get started
----
-## This is an index page
-This some content.
 
-## This is a second level heading
-Some more content.home
----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDE5Njk2NCwxNjgwMzk2Nzc0LDg1ND
-Y5OTc5MywtMTc2ODYyNjIxMCwtMTIyMTUxMzk1NywtMjAxNDg1
-OTM1NiwtMTkzNjExNDAxNSwtNzUxNjUwMjQ1LC0xMjE4MjIxOD
-I1LDExODQyNTQxMDksLTE2MzkyMzMwNzgsLTg4MzMzNDAxNiwt
-MjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTY4MDM5Njc3NCw4NTQ2OTk3OTMsLTE3Nj
+g2MjYyMTAsLTEyMjE1MTM5NTcsLTIwMTQ4NTkzNTYsLTE5MzYx
+MTQwMTUsLTc1MTY1MDI0NSwtMTIxODIyMTgyNSwxMTg0MjU0MT
+A5LC0xNjM5MjMzMDc4LC04ODMzMzQwMTYsLTIwODg3NDY2MTJd
+fQ==
 -->
