@@ -107,6 +107,8 @@ Some additional nice-to-haves:
 
 No problem! There are some more details included on the [Policy page](/policy/).
 
+If we haven't met and you want to know more about me, check out the [About page](/about/).
+
 You can also [send me an email](mailto:sophia@sophiamusicstudio.com) with any other questions you have.
 
 [Back 👆]({{site.url}})
