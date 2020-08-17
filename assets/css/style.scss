@@ -17,6 +17,15 @@ h1, h2, h3 {
   font-family: 'Bitter', serif;
 }
 
+a, a:hover, a:active, a:visited, {
+  color: #991C1B;
+  text-decoration: underline;
+}
+
+a:hover {
+  background-color: rgba(255, 182, 22, .25);
+}
+
 .bg-black {
   background-color: #000000 !important;
 }
