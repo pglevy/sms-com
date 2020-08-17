@@ -1,3 +1,8 @@
+---
+layout: page
+title: Policy
+permalink: /policy/
+---
 ## Dates
 
 A lesson is 30 minutes, once per week, subject to the calendar and holidays below.
