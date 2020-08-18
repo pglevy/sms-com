@@ -58,10 +58,11 @@ a:hover {
 }
 
 .piano-bar {
-  min-height: 150px;
+  min-height: 75px;
+  height: 75px;
   background-image: url(/assets/img/flat-piano.gif);
   background-repeat: repeat-x;
-  background-size: cover;
+  background-size: auto 75px;
   border-bottom: 1px solid #6700AD;
   border-top: 1px solid #6700AD;
 }

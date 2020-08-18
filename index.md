@@ -18,9 +18,6 @@ On this page:
 - [Who is Sophia? 😄](#who-is-sophia)
 - [What if I have more questions?](#what-if-i-have-more-questions)
 
----
-
-
 ## What's it all about?
 
 Passion Projects are not your traditional piano lessons. These are designed to be creative musical projects that I will coach you on meeting a meaningful goal that we set for you together.
