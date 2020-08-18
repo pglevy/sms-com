@@ -112,14 +112,3 @@ If we haven't met and you want to know more about me, check out the [About page]
 You can also [send me an email](mailto:sophia@sophiamusicstudio.com) with any other questions you have.
 
 [Back 👆]({{site.url}})
-
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDM5Njc3NCw4NTQ2OTk3OTMsLTE3Nj
-g2MjYyMTAsLTEyMjE1MTM5NTcsLTIwMTQ4NTkzNTYsLTE5MzYx
-MTQwMTUsLTc1MTY1MDI0NSwtMTIxODIyMTgyNSwxMTg0MjU0MT
-A5LC0xNjM5MjMzMDc4LC04ODMzMzQwMTYsLTIwODg3NDY2MTJd
-fQ==
--->

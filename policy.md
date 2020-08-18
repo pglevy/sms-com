@@ -53,6 +53,3 @@ Make-up lessons are reserved on a first-come, first-serve basis.
 ## Discontinuation
 
 If you would like to discontinue lessons, please let me know before the start of the next month.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkzOTU4NThdfQ==
--->
