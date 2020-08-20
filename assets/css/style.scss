@@ -42,14 +42,17 @@ a:hover {
   //height: auto;
 }
 
-.sms-primary {
+a.sms-primary {
   background-color: #6700AD;
   color: white;
+  text-decoration: none;
+  -webkit-appearance: none;
 }
 
-.sms-primary:hover, .sms-primary:active {
+a.sms-primary:hover, .sms-primary:active {
   background-color: #4C1161;
   color: white;
+  -webkit-appearance: none;
 }
 
 .card {
@@ -65,6 +68,8 @@ a:hover {
   background-size: auto 75px;
   border-bottom: 1px solid #6700AD;
   border-top: 1px solid #6700AD;
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
 }
 
 
