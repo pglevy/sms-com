@@ -112,9 +112,9 @@ After growing up in Jakarta, Indonesia, I graduated from Berklee College of Musi
 
 I’ve written and recorded lots of songs for cable and network television in the U.S. and Asia, and written songs for major label artists in Asia. I also released my own album in Indonesia and starred in a kids show in Singapore.
 
-Over the past 10 years, I have taught piano and voice with over 200 students in Northern Virginia and engaged them in a wide variety of performance and recording experiences, including cafes, clubs, restaurants, festivals, pop-rock band workshops, competitions, and fundraisers.
+Over the past 10 years, I have taught piano and voice with over 200 students in Northern Virginia and engaged them in a wide variety of performance and recording experiences, including cafes, clubs, restaurants, senior homes, festivals, pop-rock band workshops, competitions, and fundraisers.
 
-In addition to music, I love yoga, meditation, cooking, dancing, planting, and overall health and wellness.
+In addition to music, I love yoga, meditation, cooking, dancing, gardening, entrepreneurship, and overall health and wellness.
 
 ## What if I have more questions?
 
