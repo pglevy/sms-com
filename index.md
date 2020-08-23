@@ -39,7 +39,7 @@ These are just some examples. At the beginning of the project, I'll help you com
 - Accompany my community choir group.
 - Play holiday music at family gatherings.
 
-[Back 👆]({{site.url}})
+[Back top top 👆](#)
 
 ## Who is this a good fit for?
 
@@ -56,7 +56,7 @@ A good-fit student is someone who sounds like the following:
 
 My expertise is in playing and singing popular music on piano. I emphasize  playing by ear and building a foundation of rhythm, melody, and harmony using a chord-based approach. I can also teach you how to branch out into songwriting, arranging, or producing music to picture for those who are interested in exploring these arenas.
 
-[Back 👆]({{site.url}})
+[Back top top 👆](#)
 
 ## What does a project include?
 
@@ -70,7 +70,7 @@ Each project will run for 3 months and includes the following:
 
 Note: A project can start any time; there are no seasonal start/end dates. We can schedule the meeting times to occur regularly but the schedule can be fluid as needed.
 
-[Back 👆]({{site.url}})
+[Back top top 👆](#)
 
 ## How much does it cost?
 
@@ -86,7 +86,7 @@ If paid in monthly installments at the beginning of each month:
 
 Payment can be made by cash, check, PayPal, or Zelle.
 
-[Back 👆]({{site.url}})
+[Back top top 👆](#)
 
 ## Where do we meet?
 
@@ -102,7 +102,7 @@ Some nice-to-haves:
 - Separate microphones for piano and voice
 - Separate device cameras for piano and face
 
-[Back 👆]({{site.url}})
+[Back top top 👆](#)
 
 ## Who is Sophia?
 
@@ -120,4 +120,4 @@ In addition to music, I love yoga, meditation, cooking, dancing, planting, and o
 
 No problem! [Send me an email](mailto:sophia@sophiamusicstudio.com) with any other questions you have.
 
-[Back 👆]({{site.url}})
+[Back top top 👆](#)
