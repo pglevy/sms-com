@@ -20,7 +20,7 @@ On this page:
 
 ## What's it all about?
 
-Passion Projects are not your traditional piano lessons. These are designed to be creative musical projects that I will coach you on meeting a meaningful goal that we set for you together.
+Passion Projects are not your traditional piano lessons. These are designed to be creative musical projects that I will coach you on as you work toward a meaningful goal that we set for you together.
 
 This approach requires a firm commitment and intense focus for a 3-month timeline during which we'll meet on a regular basis for both demonstration of your progress and short check-ins to answer questions and keep you on track. We'll also collaborate offline through chat and sharing other resources and materials to support you in your goal.
 
@@ -34,10 +34,10 @@ These are just some examples. At the beginning of the project, I'll help you com
 
 - Record a 3-song demo on GarageBand.
 - Play and sing all Taylor Swift's songs off her new album.
-- Start a band.
 - Audition for a show, gig, or theatrical production.
-- Write music for a film or video production with my friends.
+- Write songs for a musical or music for a film production.
 - Accompany my community choir group.
+- Play holiday music at family gatherings.
 
 [Back 👆]({{site.url}})
 
@@ -52,7 +52,7 @@ A good-fit student is someone who sounds like the following:
 - Loves to show off when they've learned a song.
 - Isn't afraid to try new things and be creative.
 - Imagines themselves doing fun things with music.
-- Somewhere between 10 and 100 years old.
+- Somewhere between the ages of 10 and 100 years old.
 
 My expertise is in playing and singing popular music on piano. I emphasize  playing by ear and building a foundation of rhythm, melody, and harmony using a chord-based approach. I can also teach you how to branch out into songwriting, arranging, or producing music to picture for those who are interested in exploring these arenas.
 
