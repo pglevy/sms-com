@@ -2,7 +2,7 @@
 layout: home
 title: "Introducing: Passion Projects for Piano Online"
 permalink: /
-intro: "After taking a break, I've decided to try something new and different for Sophia Music Studio. Reflecting on my years of teaching, I've found the students who grow the most and have the most fun are the ones who have a clear idea of what they're working toward. So instead of ongoing, weekly lessons, where there's so much pressure for magic to happen in those 30-minute classes, I'm starting a new format: 3-month projects where we work together to achieve a specific goal for you.
+intro: "After taking a break, I've decided to try something new and different for Sophia Music Studio. Reflecting on my years of teaching, I've found the students who grow the most and have the most fun are the ones who have a clear idea of what they're working toward. So instead of lesson books and seasonal recitals, I'm starting a new format: 3-month projects where we work together to achieve a specific goal for you.
 "
 call-to-action: Tell me what you’re passionate about
 image: smiling
@@ -20,17 +20,15 @@ On this page:
 
 ## What's it all about?
 
-Passion Projects are not your traditional piano lessons. These are designed to be creative musical projects that I will coach you on as you work toward a meaningful goal that we set for you together.
+Passion Projects are all about you and what you want to accomplish with your piano playing. What's your goal? As your creative coach, I will help you decide on and work toward an outcome that is meaningful to you.
 
 This approach requires a firm commitment and intense focus for a 3-month timeline during which we'll meet on a regular basis for both demonstration of your progress and short check-ins to answer questions and keep you on track. We'll also collaborate offline through chat and sharing other resources and materials to support you in your goal.
 
-Instead of working through piano level books and preparing for recitals, we will be working together on an individualized curriculum designed for your specific project.
+**I am only accepting 10 students into this program so I can focus on spending quality time with each student.** I will not be doing any other teaching outside of these Passion Projects.
 
-**Because of the time commitment this will require on my part, I am only accepting 10 students at a time into this program.** I will not be doing any other teaching outside of these Passion Projects.
+### What are some examples of Passion Projects?
 
-### What are some examples of Passion Project goals?
-
-These are just some examples. At the beginning of the project, I'll help you come up with a challenging goal that is meaningful to you.
+These are just some examples. At the beginning of the project, I'll help you come up with a challenging goal that is meaningful to you. Depending on your goal, I'll help you learn the appropriate skills along the way from a variety of sources.
 
 - Record a 3-song demo on GarageBand.
 - Play and sing all Taylor Swift's songs off her new album.
@@ -110,14 +108,14 @@ Hello! My name is Sophia Levy. I'm a wife and mom-of-two living in Woodbridge, V
 
 After growing up in Jakarta, Indonesia, I graduated from Berklee College of Music in Boston where I studied piano, voice, songwriting, and music synthesis.
 
-I’ve written and recorded lots of songs for cable and network television in the U.S. and Asia, and written songs for major label artists in Asia. I also released my own album in Indonesia and starred in a kids show in Singapore.
+I’ve written and recorded dozens of songs for cable and network television in the U.S. and Asia, and written songs for major label artists in Asia. I also released my own album in Indonesia and starred in a kids show in Singapore.
 
-Over the past 10 years, I have taught piano and voice with over 200 students in Northern Virginia and engaged them in a wide variety of performance and recording experiences, including cafes, clubs, restaurants, senior homes, festivals, pop-rock band workshops, competitions, and fundraisers.
+After establishing Sophia Music Studio in 2011, I have taught piano and voice with over 200 students in Northern Virginia and engaged them in a wide variety of performance and recording experiences, including cafes, clubs, restaurants, senior homes, festivals, pop-rock band workshops, competitions, and fundraisers.
 
 In addition to music, I love yoga, meditation, cooking, dancing, gardening, entrepreneurship, and overall health and wellness.
 
 ## What if I have more questions?
 
-No problem! [Send me an email](mailto:sophia@sophiamusicstudio.com) with any other questions you have.
+No problem! [Send me an email](mailto:sophia@sophiamusicstudio.com) with any questions you have.
 
 [Back to top 👆](#)
