@@ -7,6 +7,7 @@ intro: "After taking a break, I've decided to try something new and different fo
 call-to-action: Tell me what you’re passionate about
 image: smiling
 image-description: Sophia smiling on a couch
+image-caption: 'Sophia launches her new online teaching project<br><a href="https://www.instagram.com/yudha_ronni_p/">Photo: Yudha Ronni P</a>'
 ---
 
 On this page:
