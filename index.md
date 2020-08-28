@@ -117,6 +117,6 @@ In addition to music, I love yoga, meditation, cooking, dancing, gardening, entr
 
 ## What if I have more questions?
 
-No problem! [Send me an email](mailto:sophia@sophiamusicstudio.com) with any questions you have.
+No problem! [Send me an email](mailto:sophia@sophiamusicstudio.com) with any questions you have. Or [find me on Facebook](https://www.facebook.com/SophiaMusicStudio/).
 
 [Back to top 👆](#)
