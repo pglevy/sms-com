@@ -94,6 +94,7 @@ All meetings will take place online using Zoom.
 These are the technical requirements:
 - Piano or keyboard
 - Computer or phone with Zoom app installed
+- Google account (for Google Classroom)
 - Fast, reliable internet connection
 - Notebook and pen/pencil
 
