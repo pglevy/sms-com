@@ -21,7 +21,7 @@ On this page:
 
 ## What's it all about?
 
-Passion Projects are all about you and what you want to accomplish with your piano playing. What's your goal? As your creative coach, I will help you decide on and work toward an outcome that is meaningful to you.
+Passion Projects are all about you and what you want to accomplish with your piano playing and overall music education. What's your goal? As your creative coach, I will help you decide on and work toward an outcome that is meaningful to you.
 
 This approach requires a firm commitment and intense focus for a 3-month timeline during which we'll meet on a regular basis for both demonstration of your progress and short check-ins to answer questions and keep you on track. We'll also collaborate offline through chat and sharing other resources and materials to support you in your goal.
 
