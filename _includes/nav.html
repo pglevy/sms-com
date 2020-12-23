@@ -1,0 +1,25 @@
+<nav class="navbar navbar-expand-lg navbar-light">
+    <a class="navbar-brand pl-0 pl-md-6" href="{{ site.baseurl }}/index.html"><img src="assets/img/lgl-logo.png" alt="logo" height="108" class="lgl-logo" loading="lazy"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav ml-md-8">
+        <li class="nav-item">
+          <a class="nav-link{% if page.title == 'Services' %} active{% endif %}" href="services.html">Services <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link{% if page.title == 'Planning' %} active{% endif %}" href="planning.html">Planning</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link{% if page.title == 'Experience' %} active{% endif %}" href="experience.html">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link{% if page.title == 'About' %} active{% endif %}" href="about.html">About</a>
+        </li>
+        <li class="nav-item">
+            <a class="btn btn-outline-secondary" href="mailto:leah@lgleventmgmt.com">Email</a>
+          </li>
+      </ul>
+    </div>
+  </nav>
