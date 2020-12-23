@@ -5,7 +5,7 @@ cta: Tell me what you’re passionate about
 cta-url: 
 image: smiling
 image-description: Sophia smiling on a couch
-image-caption: 'Sophia launches her new online teaching project<br><a href="https://www.instagram.com/yudha_ronni_p/">Photo: Yudha Ronni P</a>'
+image-caption: 'Sophia gets her groove back<br><a href="https://www.instagram.com/yudha_ronni_p/">Photo: Yudha Ronni P</a>'
 ---
 Hello! My name is Sophia Levy. I'm a wife and mom-of-two living in Woodbridge, VA, about 30 miles south of Washington D.C.
 
@@ -16,3 +16,5 @@ I’ve written and recorded dozens of songs for cable and network television in 
 After establishing Sophia Music Studio in 2011, I have taught piano and voice with over 200 students in Northern Virginia and engaged them in a wide variety of performance and recording experiences, including cafes, clubs, restaurants, senior homes, festivals, pop-rock band workshops, competitions, and fundraisers.
 
 In addition to music, I love yoga, meditation, cooking, dancing, gardening, entrepreneurship, and overall health and wellness.
+
+Wanna connect? [Send me an email](mailto:sophia@sophiamusicstudio.com) with any questions you have. Or [find me on Facebook](https://www.facebook.com/SophiaMusicStudio/).
