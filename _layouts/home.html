@@ -1,4 +1,4 @@
-{%- include head.html -%}
+{% include head.html %}
 {% include nav.html %}
 
         <div class="row pt-4 pl-4 pr-4 pb-0">
@@ -11,7 +11,7 @@
           <div class="col-md">
             <h1 class="mt-3">{{page.title}}</h1>
             <p class="lead">{{page.intro}}</p>
-            {%- include call-to-action.html -%}
+            {% include call-to-action.html %}
           </div>
         </div>
 
@@ -20,7 +20,7 @@
 
             {{content}}
 
-            {%- include call-to-action.html -%}
+            {% include call-to-action.html %}
           </div>
         </div>
 
@@ -29,4 +29,4 @@
 
     </div>
 
-{%- include foot.html -%}
+{% include foot.html %}
