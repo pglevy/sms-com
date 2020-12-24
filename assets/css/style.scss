@@ -80,6 +80,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .nav-item {
   margin-right: 1rem;
   margin-bottom: .5rem;
+  margin-top: .5rem;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -90,4 +91,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .nav-link.active {
   color: #212121;
   border-bottom: 2px solid #6700AD;
+}
+
+.jumbotron {
+  background-color: rgba(255, 182, 22, .08);
 }

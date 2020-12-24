@@ -3,22 +3,27 @@
 
         <div class="jumbotron mx-4">
           <h1 class="display-4">Welcome to Sophia Music Studio!</h1>
-          <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+          <p class="lead">I'm Sophia, and I'm exploring new and innovation ways to teach piano, voice, and performance for kids—and kids at heart—who want to make music, establish stage presence and, mostly, have fun.</p>
           <hr class="my-4">
-          <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-          <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+          <p>Whether you to keep progressing at your own pace through flexible <a href="class-cards.html">class cards</a> or jump into a more intense <a href="passion-projects.html">passion project</a>, I've got options to meet your musical needs.</p>
+          <a class="btn sms-primary btn-lg" href="#offerings" role="button">Check out the SMS offerings</a>
         </div>
 
         <div class="row">
           <div class="col mx-4">
 
             
-            <div class="card-deck mb-4">
+            <div id="offerings" class="card-deck mb-4">
               <div class="card">
                 <img src="assets/img/piano-hands-1.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                  <h2 class="card-title mt-0">Class cards</h2>
+                  <h2 class="card-title mt-0">Class Cards</h2>
                   <p class="card-text">Class cards are a new, super-flexible way to take piano and voice lessons with Ms. Sophia!</p>
+                  <ul>
+                    <li>No long-term commitment</li>
+                    <li>Flexible scheduling</li>
+                    <li>Bulk discounts</li>
+                  </ul>
                 </div>
                 <div class="card-footer border-0 bg-transparent"><a class="btn sms-primary" href="class-cards.html" role="button">Learn more about Class Cards</a></div>
               </div>
@@ -26,7 +31,12 @@
                 <img src="assets/img/singing-on-stage.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h2 class="card-title mt-0">Passion Projects</h2>
-                  <p class="card-text">Passion Projects are focused, 3-month projects for advanced students who want to work together to achieve a specific goal.</p>
+                  <p class="card-text">Passion Projects are focused projects for advanced students who want to work toward a specific goal.</p>
+                  <ul>
+                    <li>Three-month timeline</li>
+                    <li>Goal-specific outcome</li>
+                    <li>Lessons and check-ins included</li>
+                  </ul>
                 </div>
                 <div class="card-footer border-0 bg-transparent"><a class="btn sms-primary" href="passion-projects.html" role="button">Learn more about Passion Projects</a></div>
               </div>
@@ -36,6 +46,7 @@
           </div>
         </div>
 
+        {% include call-to-action.html %}
 
       </div>
 

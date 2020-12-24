@@ -4,7 +4,7 @@ title: "Introducing: Passion Projects for Piano Online"
 permalink: /
 intro: "After taking a break, I've decided to try something new and different for Sophia Music Studio. Reflecting on my years of teaching, I've found the students who grow the most and have the most fun are the ones who have a clear idea of what they're working toward. So instead of lesson books and seasonal recitals, I'm starting a new format: 3-month projects where we work together to achieve a specific goal for you.
 "
-call-to-action: Tell me what you’re passionate about
+cta: Tell me what you’re passionate about
 image: smiling
 image-description: Sophia smiling on a couch
 image-caption: 'Sophia launches her new online teaching project<br><a href="https://www.instagram.com/yudha_ronni_p/">Photo: Yudha Ronni P</a>'
