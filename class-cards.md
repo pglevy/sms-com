@@ -12,12 +12,10 @@ Class cards are a new, super-flexible way to take piano and voice lessons with M
 
 On this page:
 - [What's it all about?](#whats-it-all-about)
-- [Who is this a good fit for?](#who-is-this-a-good-fit-for)
-- [What does a project include?](#what-does-a-project-include)
-- [How much does it cost?](#how-much-does-it-cost)
-- [Where do we meet?](#where-do-we-meet)
-- [Who is Sophia? 😄](#who-is-sophia)
-- [What if I have more questions?](#what-if-i-have-more-questions)
+- [How does scheduling work](#how-does-scheduling-work)
+- [How much do they cost?](#how-much-do-they-cost)
+- [How do I buy class cards?](#how-do-i-buy-class-cards)
+- [What about returns and exchanges?](#what-about-returns-and-exchanges)
 
 ## What's it all about?
 Class cards are like traditional music lessons, but better. Here's how:
@@ -44,3 +42,5 @@ You can buy class cards online through my payment service, Gumroad. I'll be noti
 
 ## What about returns and exchanges?
 Since they never expire, I can't accept returns, but if you decide at some point you don't want to use already purchased class cards, you can transfer them to someone else.
+
+[Back to top 👆](#)

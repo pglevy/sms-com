@@ -24,8 +24,6 @@ Passion Projects are all about you and what you want to accomplish with your pia
 
 This approach requires a firm commitment and intense focus for a 3-month timeline during which we'll meet on a regular basis for both demonstration of your progress and short check-ins to answer questions and keep you on track. We'll also collaborate offline through chat and sharing other resources and materials to support you in your goal.
 
-**I am only accepting 10 students into this program so I can focus on spending quality time with each student.** I will not be doing any other teaching outside of these Passion Projects.
-
 ### What are some examples of Passion Projects?
 
 These are just some examples. At the beginning of the project, I'll help you come up with a challenging goal that is meaningful to you. Depending on your goal, I'll help you learn the appropriate skills along the way from a variety of sources.
@@ -36,8 +34,6 @@ These are just some examples. At the beginning of the project, I'll help you com
 - Write songs for a musical or arrange music for a film production.
 - Accompany my community choir group.
 - Play holiday music at family gatherings.
-
-[Back to top 👆](#)
 
 ## Who is this a good fit for?
 
@@ -54,8 +50,6 @@ A good-fit student is someone who sounds like the following:
 
 My expertise is in playing and singing popular music on piano. I emphasize  playing by ear and building a foundation of rhythm, melody, and harmony using a chord-based approach. I can also teach you how to branch out into songwriting, arranging, or producing music to picture for those who are interested in exploring these arenas.
 
-[Back to top 👆](#)
-
 ## What does a project include?
 
 Each project will run for 3 months and includes the following:
@@ -67,8 +61,6 @@ Each project will run for 3 months and includes the following:
 - Intermittent offline communication as needed
 
 Note: A project can start any time; there are no seasonal start/end dates. We can schedule the meeting times to occur regularly but the schedule can be fluid as needed.
-
-[Back to top 👆](#)
 
 ## How much does it cost?
 
@@ -84,8 +76,6 @@ If paid in monthly installments at the beginning of each month:
 
 Payment can be made by cash, check, PayPal, or Zelle.
 
-[Back to top 👆](#)
-
 ## Where do we meet?
 
 All meetings will take place online using Zoom.
@@ -100,20 +90,6 @@ These are the technical requirements:
 Some nice-to-haves:
 - Separate microphones for piano and voice
 - Separate device cameras for piano and face
-
-[Back to top 👆](#)
-
-## Who is Sophia?
-
-Hello! My name is Sophia Levy. I'm a wife and mom-of-two living in Woodbridge, VA, about 30 miles south of Washington D.C.
-
-After growing up in Jakarta, Indonesia, I graduated from Berklee College of Music in Boston where I studied piano, voice, songwriting, and music synthesis.
-
-I’ve written and recorded dozens of songs for cable and network television in the U.S. and Asia, and written songs for major label artists in Asia. I also released my own album in Indonesia and starred in a kids show in Singapore.
-
-After establishing Sophia Music Studio in 2011, I have taught piano and voice with over 200 students in Northern Virginia and engaged them in a wide variety of performance and recording experiences, including cafes, clubs, restaurants, senior homes, festivals, pop-rock band workshops, competitions, and fundraisers.
-
-In addition to music, I love yoga, meditation, cooking, dancing, gardening, entrepreneurship, and overall health and wellness.
 
 ## What if I have more questions?
 
