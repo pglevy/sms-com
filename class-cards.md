@@ -19,7 +19,7 @@ On this page:
 
 ## What's it all about?
 Class cards are like traditional music lessons, but better. Here's how:
-- **More time.** Instead of stopping at 30 minutes when you're just getting warmed, or doubling up to 60 minutes, all classes are Baby Bear-sized at 45-minutes… just right!
+- **More time.** Instead of stopping at 30 minutes when you're just getting warmed up, or doubling up to 60 minutes, all classes are Baby Bear-sized at 45-minutes… just right!
 - **More flexibility.** You don't have to worry about finding the one perfect time slot that is always going to work. Just grab a time slot that fits with your schedule on a per-lesson basis.
 - **Less commitment.** Not sure how you're going to fit lessons around other after-school activities and holidays? No problem. Class cards never expire so you can focus on your priorities as they shift throughout the year.
 - **Less hassle.** No more writing checks. No more texting back and forth to schedule make-ups. Everything is online and automated.
