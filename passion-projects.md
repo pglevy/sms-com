@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Passion Projects
+title: Passion Projects | Sophia Music Studio
 cta: Start signup process
 cta-link: "https://forms.gle/DDAMexNT9FEVDFG58"
 ---

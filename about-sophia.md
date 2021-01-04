@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Sophia
+title: About Sophia | Sophia Music Studio
 cta: Tell me what you’re passionate about
 cta-url: 
 image: smiling

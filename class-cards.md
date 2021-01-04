@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Class Cards
+title: Class Cards | Sophia Music Studio
 cta: Buy Class Cards
 cta-link: "https://gumroad.com/l/sms-class-cards"
 ---
