@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Passion Projects
-cta: Share your passion
-cta-link: "http://www.gumroad.com"
+cta: Start signup process
+cta-link: "https://forms.gle/DDAMexNT9FEVDFG58"
 ---
-Passion Projects are focused, 3-month projects for advanced students who want to work together to achieve a specific goal.
+Passion Projects are focused, 3-month projects for experienced students who want to work together to achieve a specific goal.
 {: .lead}
 
 ![Hands on piano keys](assets/img/singing-on-stage.jpg){: .img-fluid .rounded}
@@ -54,8 +54,8 @@ My expertise is in playing and singing popular music on piano. I emphasize  play
 
 Each project will run for 3 months and includes the following:
 
-- Weekly, 45-minute Zoom session
-- Weekly, 15-minute check-in
+- Weekly, 1-hour lesson
+- Weekly, 30-minute check-in
 - Personalized project goal
 - Personalized at-home practice plan
 - Intermittent offline communication as needed
@@ -78,7 +78,7 @@ Payment can be made by cash, check, PayPal, or Zelle.
 
 ## Where do we meet?
 
-All meetings will take place online using Zoom.
+Meetings will primarily take place online using Zoom for now. For students who are local to Woodbridge, Va., we may be able to do some in-person meetings, but we will talk first about COVID precautions.
 
 These are the technical requirements:
 - Piano or keyboard

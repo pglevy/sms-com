@@ -2,7 +2,7 @@
 layout: page
 title: Class Cards
 cta: Buy Class Cards
-cta-link: "http://www.gumroad.com"
+cta-link: "https://gumroad.com/l/sms-class-cards"
 ---
 Class cards are a new, super-flexible way to take piano and voice lessons with Ms. Sophia!
 {: .lead}
@@ -26,21 +26,17 @@ Class cards are like traditional music lessons, but better. Here's how:
 
 ## How much do they cost?
 Class cards start at $200 for 4 lessons, but there are discounts when you buy in bulk!
-- 4 lessons, $200
-- 8 lessons: $xxx (XX% discount)
-- 12 lessons: $xxx (XX% discount)
+- 4 classes, $200
+- 8 classes: $360 (10% discount)
+- 12 classes: $510 (15% discount)
 
 ## How do I buy class cards?
-You can buy class cards online through my payment service, Gumroad. I'll be notified when you buy class cards and book lessons. They never expire so you can book your lessons whenever you want.
-
-<a href="#" class="btn sms-primary">Buy class cards</a>
+You can <a href="https://gumroad.com/l/sms-class-cards">buy class cards</a> online through my payment service, Gumroad. I'll be notified when you buy class cards and book lessons. They never expire so you can book your lessons whenever you want.
 
 ## How does scheduling work?
-It's easy to schedule lessons when you want using my calendar booking system. I'll make a range of time slots available, so you can just grab whatever works for you. It's all automatic!
-
-<a href="https://calendly.com/sophiamusicstudio/45-minute-class/" class="btn sms-primary">Schedule time with Ms. Sophia</a>
+It's easy to <a href="https://calendly.com/sophiamusicstudio/45-minute-class/">schedule lessons</a> when you want using my calendar booking system. I'll make a range of time slots available, so you can just grab whatever works for you. It's all automatic!
 
 ## What about returns and exchanges?
-Since they never expire, I can't accept returns, but if you decide at some point you don't want to use already purchased class cards, you can transfer them to someone else.
+Since class cards never expire, I can’t accept returns, but if you decide at some point you don’t want to use already purchased classes, you can transfer the unused classes to someone else.
 
 [Back to top 👆](#)
