@@ -13,6 +13,7 @@ Class cards are a new, super-flexible way to take piano and voice lessons with M
 On this page:
 - [What's it all about?](#whats-it-all-about)
 - [How much do they cost?](#how-much-do-they-cost)
+- [Where do we meet?](#where-do-we-meet)
 - [How do I buy class cards?](#how-do-i-buy-class-cards)
 - [How does scheduling work](#how-does-scheduling-work)
 - [What about returns and exchanges?](#what-about-returns-and-exchanges)
@@ -29,6 +30,10 @@ Class cards start at $200 for 4 lessons, but there are discounts when you buy in
 - 4 classes, $200
 - 8 classes: $360 (10% discount)
 - 12 classes: $510 (15% discount)
+
+## Where do we meet?
+
+Meetings will primarily take place online using Zoom for now. For students who are local to Woodbridge, Va., we may be able to do some in-person meetings, but we will talk first about COVID precautions.
 
 ## How do I buy class cards?
 You can <a href="https://gumroad.com/l/sms-class-cards">buy class cards</a> online through my payment service, Gumroad. I'll be notified when you buy class cards and book lessons. They never expire so you can book your lessons whenever you want.
