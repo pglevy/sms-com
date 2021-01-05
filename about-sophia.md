@@ -5,7 +5,7 @@ cta: Tell me what you’re passionate about
 cta-url: 
 image: smiling
 image-description: Sophia smiling on a couch
-image-caption: 'Sophia gets her groove back<br><a href="https://www.instagram.com/yudha_ronni_p/">Photo: Yudha Ronni P</a>'
+image-caption: '<a href="https://www.instagram.com/yudha_ronni_p/">Photo: Yudha Ronni P</a>'
 ---
 Hello! My name is Sophia Levy. I'm a wife and mom-of-two living in Woodbridge, VA, about 30 miles south of Washington D.C.
 
