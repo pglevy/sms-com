@@ -42,14 +42,14 @@ a:hover {
   //height: auto;
 }
 
-a.sms-primary {
+a.sms-primary, button.sms-primary {
   background-color: #6700AD;
   color: white;
   text-decoration: none;
   -webkit-appearance: none;
 }
 
-a.sms-primary:hover, a.sms-primary:active {
+a.sms-primary:hover, a.sms-primary:active, button.sms-primary:hover, button.sms-primary:active {
   background-color: #4C1161;
   color: white;
   -webkit-appearance: none;
